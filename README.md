@@ -1,4 +1,4 @@
-# Hero and Monsters (RPG) 🎮 
+# Simple Dungeon (RPG) 🎮 
 
 ### Descrição 📌
 ###### Um rpg rodando no prompt de comando, onde um herói tem que passear pelo mapa enfrentando monstros com o objetivo de chegar na porta de saída desse mapa desafiador.
